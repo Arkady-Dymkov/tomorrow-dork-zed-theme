@@ -1,0 +1,7 @@
+id = "tomorrow-dark-theme"
+name = "Tomorrow Dark Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["arkadiy-dw"]
+description = "A dark theme inspired by Tomorrow Night for IntelliJ by menwhorust"
+repository = "https://github.com/Arkady-Dymkov/tomorrow-dork-zed-theme"
